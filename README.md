@@ -7,4 +7,5 @@ A simple simulated store inventory that allows you to:
 - View inventory
 - Remove products from inventory
 - Search for products in inventory
+
 Created in my SDE course through Code2College.
